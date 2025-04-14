@@ -1,0 +1,1 @@
+a:1:{i:0;C:7:"Usuario":138:{a:3:{s:4:"nome";s:3:"zap";s:5:"email";s:11:"zap@zap.com";s:5:"senha";s:60:"$2y$10$5RNun2xVml1w8JNKmpAUh.gkvEMirjpiMqkow1XyyOt3Xo/B4692q";}}}
